@@ -1,2 +1,3 @@
 # practice_2.4.
-Development of information systems code, Educational Practice, lab-2.4
+
+By Eraliev Muhammad-Rasul Lutfulloevich, 646 group
